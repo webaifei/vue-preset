@@ -1,0 +1,18 @@
+{
+  "useConfigFiles": true,
+  "plugins": {
+    "@vue/cli-plugin-babel": {},
+    "@u51/vue-cli-plugin-best": {
+      "prompts": true,
+      "version": "1.0.7"
+    },
+    "@vue/cli-plugin-eslint": {
+      "config": "prettier",
+      "lintOn": [
+        "save"
+      ]
+    }
+
+  },
+  "cssPreprocessor": "stylus"
+}
