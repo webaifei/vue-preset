@@ -1,15 +1,15 @@
 {
   "plugins": {
     "@vue/cli-plugin-babel": {},
+    "@u51/vue-cli-plugin-best": {
+      "prompts": true,
+      "version": "1.2.32"
+    },
     "@vue/cli-plugin-eslint": {
       "config": "prettier",
       "lintOn": [
         "save"
       ]
-    },
-    "@u51/vue-cli-plugin-best": {
-      "prompts": true,
-      "version": "1.2.32"
     }
   },
   "cssPreprocessor": "stylus",
