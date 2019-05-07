@@ -9,7 +9,7 @@
     },
     "@u51/vue-cli-plugin-best": {
       "prompts": true,
-      "version": "1.2.2"
+      "version": "1.2.3"
     }
   },
   "cssPreprocessor": "stylus",
