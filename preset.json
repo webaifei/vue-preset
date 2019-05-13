@@ -3,7 +3,7 @@
     "@vue/cli-plugin-babel": {},
     "@u51/vue-cli-plugin-best": {
       "prompts": true,
-      "version": "1.2.36"
+      "version": "1.2.37"
     },
     "@vue/cli-plugin-eslint": {
       "config": "prettier",
